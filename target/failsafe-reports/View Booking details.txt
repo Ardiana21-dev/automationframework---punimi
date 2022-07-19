@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: View Booking details
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.295 s - in View Booking details

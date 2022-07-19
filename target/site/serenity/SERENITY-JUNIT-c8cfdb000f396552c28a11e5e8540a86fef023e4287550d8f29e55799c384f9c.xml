@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="To create a new booking in restful-booker" skipped="0" tests="5" time="18.91" timestamp="2022-07-19 10:13:05"><testcase name="To create new booking using cucumber Data Table"/><testcase name="To create new booking using JSON data"/></testsuite>

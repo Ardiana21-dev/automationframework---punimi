@@ -1,0 +1,14 @@
+webdriver.driver=chrome
+webdriver.autodownload=true
+
+serenity.project.name = Korniza e testimit te automatizuar
+
+serenity.browser,height = 2000
+serenity.browser,width = 3000
+
+serenity.console.colors = true
+
+# How long does Serenity wait for elements that are not present on the screen to load
+webdriver.timeouts.implicitlywait = 500
+
+# based on https://github.com/serenity-bdd/serenity-demos/blob/master/cucumber-webtests/serenity.properties

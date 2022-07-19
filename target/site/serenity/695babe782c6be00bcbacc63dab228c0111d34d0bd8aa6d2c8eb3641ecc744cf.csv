@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"View Booking details","To confirm whether the API is up and running","SUCCESS","2022-07-19T22:13:05.8450271+02:00[Europe/Belgrade]","0.0","4.69"
+"View Booking details","View all the booking IDs","SUCCESS","2022-07-19T22:13:10.5719966+02:00[Europe/Belgrade]","0.0","2.78"
+"View Booking details","To view booking details","SUCCESS","2022-07-19T22:13:13.3915422+02:00[Europe/Belgrade]","0.0","3.74"
+"View Booking details","To view all the booking IDs by booking dates","SUCCESS","2022-07-19T22:13:17.1340068+02:00[Europe/Belgrade]","0.0","2.86"
+"View Booking details","To view all the booking IDs by booking names","SUCCESS","2022-07-19T22:13:20.008577+02:00[Europe/Belgrade]","0.0","4.63"

@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Main Products page of sauce labs","Add a product in saucelabs page","SUCCESS","2022-07-19T22:13:05.8301702+02:00[Europe/Belgrade]","0.0","15.64"
+"Main Products page of sauce labs","Open product details in saucelabs page","SUCCESS","2022-07-19T22:13:23.1323231+02:00[Europe/Belgrade]","0.0","7.67"
+"Main Products page of sauce labs","Navigate back to main products page in saucelabs","SUCCESS","2022-07-19T22:13:31.4284727+02:00[Europe/Belgrade]","0.0","9.02"

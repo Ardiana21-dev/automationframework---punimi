@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Main Products page of sauce labs" skipped="0" tests="3" time="32.33" timestamp="2022-07-19 10:13:05"><testcase name="Add a product in saucelabs page"/><testcase name="Open product details in saucelabs page"/><testcase name="Navigate back to main products page in saucelabs"/></testsuite>

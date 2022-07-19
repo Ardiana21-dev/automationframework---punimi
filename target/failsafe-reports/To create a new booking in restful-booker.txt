@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: To create a new booking in restful-booker
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.419 s - in To create a new booking in restful-booker

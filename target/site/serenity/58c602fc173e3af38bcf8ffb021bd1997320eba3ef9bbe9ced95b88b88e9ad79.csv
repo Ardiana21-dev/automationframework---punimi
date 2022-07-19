@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"To create a new booking in restful-booker","To create new booking using cucumber Data Table","SUCCESS","2022-07-19T22:13:05.8301702+02:00[Europe/Belgrade]","0.0","17.3"
+"To create a new booking in restful-booker","To create new booking using JSON data","SUCCESS","2022-07-19T22:13:23.1483055+02:00[Europe/Belgrade]","0.0","1.61"
