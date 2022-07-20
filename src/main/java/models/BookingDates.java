@@ -15,10 +15,4 @@ public class BookingDates {
 
     @JsonProperty("checkout")
     private String checkout;
-
-    @Override
-    public String toString()
-    {
-        return "ClassPojo [checkin = "+checkin+", checkout = "+checkout+"]";
-    }
 }

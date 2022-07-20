@@ -19,7 +19,7 @@ public class Deserializer {
         return responseDeserialized;
     }
 
-    public static <T> T jsonFileToModel(String fileName, Class<T> type) { //maybe rename method
+    public static <T> T jsonFileToModel(String fileName, Class<T> type) {
         ObjectMapper objectMapper = new ObjectMapper();
         T model = null;
         try {

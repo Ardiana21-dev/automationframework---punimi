@@ -24,7 +24,7 @@ public class DeleteBookingActions {
                 .delete("/booking/" + bookingId);
     }
 
-    private void auth() { //this needs review refactor
+    private void auth() {
         String payload = "{\n" +
                 "         \"username\" : \"admin\",\n" +
                 "         \"password\" : \"password123\"\n" +
@@ -37,8 +37,6 @@ public class DeleteBookingActions {
                 .post("/auth") //maybe refactor
                 .then().extract().response();
         token = tokenResponse.jsonPath().getString("token");
-
-        // needs a log here for the response success
     }
 
     public Response getResponse() {   //this method to return the API call response whenever needed to verify in assertions

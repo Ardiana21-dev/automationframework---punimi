@@ -36,6 +36,4 @@ public class LoginPage extends PageObject {
     public void clickLoginButton() {
         $(login_button).click();
     }
-
-//    http://thucydides.info/docs/serenity-staging/
 }

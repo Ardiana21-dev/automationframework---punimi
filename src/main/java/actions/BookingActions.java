@@ -1,6 +1,5 @@
 package actions;
 
-import enums.Endpoints;
 import io.restassured.response.Response;
 import lombok.extern.slf4j.Slf4j;
 import net.serenitybdd.core.Serenity;
@@ -8,7 +7,7 @@ import net.serenitybdd.rest.SerenityRest;
 import net.thucydides.core.annotations.Step;
 
 @Slf4j
-public class BookingActions { //actions classes can have API and UI steps in this framework
+public class BookingActions {
 
     public Response response;
 

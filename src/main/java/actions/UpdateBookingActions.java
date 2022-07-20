@@ -37,7 +37,7 @@ public class UpdateBookingActions {
                 .contentType("application/json")
                 .body(payload)
                 .when()
-                .post("/auth") //maybe refactor
+                .post("/auth")
                 .then().extract().response();
         token = tokenResponse.jsonPath().getString("token");
 
