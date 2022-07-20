@@ -81,7 +81,7 @@ public class BookingSteps {
     public void userMakesARequestToViewBookingIDByUserName() {
         String userFirstName = Serenity.sessionVariableCalled("First name");
         String userLastName = Serenity.sessionVariableCalled("Last name");
-        bookingActions.userMakesARequestToViewBookingIDByUserName("William", "Brown");
+        bookingActions.userMakesARequestToViewBookingIDByUserName("Priya", "Sri");
         BookingId[] bookingIDs = Deserializer.deserializeResponse(bookingActions.getResponse(), BookingId[].class);
         verifyBookingIdsAreOfTheUserWithNameAndLastname(bookingIDs, userFirstName, userLastName);
     }
